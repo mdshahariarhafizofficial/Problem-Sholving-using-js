@@ -20,3 +20,7 @@ for( let i = 0; i < num.length; i++){
     };
 };
 console.log(uniqName);
+
+
+let a = "Fahad Ahmad";
+let b = "ryhan khan hero alom abc erfcDewfsc erffj;ljy ";
